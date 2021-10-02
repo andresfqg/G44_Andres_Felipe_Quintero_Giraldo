@@ -1,0 +1,12 @@
+C:\Sprint3\Shared\bin\Debug\net5.0\Sprint3.Shared.deps.json
+C:\Sprint3\Shared\bin\Debug\net5.0\Sprint3.Shared.dll
+C:\Sprint3\Shared\bin\Debug\net5.0\ref\Sprint3.Shared.dll
+C:\Sprint3\Shared\bin\Debug\net5.0\Sprint3.Shared.pdb
+C:\Sprint3\Shared\obj\Debug\net5.0\Sprint3.Shared.csproj.AssemblyReference.cache
+C:\Sprint3\Shared\obj\Debug\net5.0\Sprint3.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sprint3\Shared\obj\Debug\net5.0\Sprint3.Shared.AssemblyInfoInputs.cache
+C:\Sprint3\Shared\obj\Debug\net5.0\Sprint3.Shared.AssemblyInfo.cs
+C:\Sprint3\Shared\obj\Debug\net5.0\Sprint3.Shared.csproj.CoreCompileInputs.cache
+C:\Sprint3\Shared\obj\Debug\net5.0\Sprint3.Shared.dll
+C:\Sprint3\Shared\obj\Debug\net5.0\ref\Sprint3.Shared.dll
+C:\Sprint3\Shared\obj\Debug\net5.0\Sprint3.Shared.pdb

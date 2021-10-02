@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Sprint3.Shared/1.0.0": {
+        "runtime": {
+          "Sprint3.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sprint3.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
